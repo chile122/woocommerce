@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Hoa giả châu âu &#8211; My Shopping</title>
-	<atom:link href="http://localhost/myproject/wp_new/wordpress/danh-muc-san-pham/home-decor/hoa-gia-chau-au/feed/" rel="self" type="application/rss+xml" />
+	<title>hoagia &#8211; My Shopping</title>
+	<atom:link href="http://localhost/myproject/wp_new/wordpress/tu-khoa-san-pham/hoagia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chile122.github.io/woocommerce</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 19 Jun 2021 06:46:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 03:12:46 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,29 +22,12 @@
 
 <image>
 	<url>https://chile122.github.io/woocommerce/wp-content/uploads/2021/06/signature_ltqchi.png</url>
-	<title>Hoa giả châu âu &#8211; My Shopping</title>
+	<title>hoagia &#8211; My Shopping</title>
 	<link>https://chile122.github.io/woocommerce</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bán kèm</title>
-		<link>https://chile122.github.io/woocommerce/product/ban-kem/</link>
-					<comments>https://chile122.github.io/woocommerce/product/ban-kem/#respond</comments>
-		
-		<dc:creator><![CDATA[chile]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 06:46:32 +0000</pubDate>
-				<guid isPermaLink="false">https://chile122.github.io/woocommerce/?post_type=product&#038;p=2456</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://chile122.github.io/woocommerce/product/ban-kem/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Hoa Lụa Trang Trí Kiểu Châu Âu &#8211; HBM93</title>
 		<link>https://chile122.github.io/woocommerce/product/hoa-lua-trang-tri-kieu-chau-au-hbm93/</link>
 					<comments>https://chile122.github.io/woocommerce/product/hoa-lua-trang-tri-kieu-chau-au-hbm93/#respond</comments>
