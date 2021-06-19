@@ -1,9 +1,3 @@
-<br />
-<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wp_new\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wp_new\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wp_new\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -13,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: 	</title>
+	Các phản hồi luận về: Binh hoa Fly Retro	</title>
 	<atom:link href="http://localhost/myproject/wp_new/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/binh-hoa-fly-retro/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://chile122.github.io/woocommerce/?attachment_id=2427</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 19 Jun 2021 06:56:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Jun 2021 10:00:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My Shopping	</title>
-	<atom:link href="http://localhost/myproject/wp_new/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://chile122.github.io/woocommerce</link>
+	Các phản hồi luận về: Top 11 Phong Cách Thiết Kế Nội Thất Thịnh Hành	</title>
+	<atom:link href="http://localhost/myproject/wp_new/wordpress/11-phong-cach-thiet-ke-noi-that/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chile122.github.io/woocommerce/11-phong-cach-thiet-ke-noi-that/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 01 Jun 2021 01:53:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Top 11 Phong Cách Thiết Kế Nội Thất Thịnh Hành bởi Chi Le		</title>
+		Bởi: Chi Le		</title>
 		<link>https://chile122.github.io/woocommerce/11-phong-cach-thiet-ke-noi-that/#comment-7</link>
 
 		<dc:creator><![CDATA[Chi Le]]></dc:creator>
