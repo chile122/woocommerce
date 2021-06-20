@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wp_new/wordpress/danh-muc-san-pham/home-decor/kitchen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chile122.github.io/woocommerce</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 19 Jun 2021 06:56:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Jun 2021 11:40:16 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,66 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Bếp Picnic Bag</title>
+		<link>https://chile122.github.io/woocommerce/product/bep-picnic-bag/</link>
+					<comments>https://chile122.github.io/woocommerce/product/bep-picnic-bag/#respond</comments>
+		
+		<dc:creator><![CDATA[chile]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 11:40:15 +0000</pubDate>
+				<guid isPermaLink="false">https://chile122.github.io/woocommerce/?post_type=product&#038;p=2506</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://chile122.github.io/woocommerce/product/bep-picnic-bag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nồi Sứ Đỏ</title>
+		<link>https://chile122.github.io/woocommerce/product/noi-su-do/</link>
+					<comments>https://chile122.github.io/woocommerce/product/noi-su-do/#respond</comments>
+		
+		<dc:creator><![CDATA[chile]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 11:30:02 +0000</pubDate>
+				<guid isPermaLink="false">https://chile122.github.io/woocommerce/?post_type=product&#038;p=2501</guid>
+
+					<description><![CDATA[_Chất liệu: gốm sứ
+
+_Kích thước: 21cm x 12,5cm (đường kính x chiều cao)
+
+_Dung tích: 2600ml
+
+Dùng được với lò sóng hoặc lò nướng]]></description>
+										<content:encoded><![CDATA[<p>_Chất liệu: gốm sứ</p>
+<p>_Kích thước: 21cm x 12,5cm (đường kính x chiều cao)</p>
+<p>_Dung tích: 2600ml</p>
+<p>Dùng được với lò sóng hoặc lò nướng</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chile122.github.io/woocommerce/product/noi-su-do/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Máy Nướng Bánh Mì Pastel</title>
+		<link>https://chile122.github.io/woocommerce/product/may-nuong-banh-mi-pastel/</link>
+					<comments>https://chile122.github.io/woocommerce/product/may-nuong-banh-mi-pastel/#respond</comments>
+		
+		<dc:creator><![CDATA[chile]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 11:25:16 +0000</pubDate>
+				<guid isPermaLink="false">https://chile122.github.io/woocommerce/?post_type=product&#038;p=2494</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://chile122.github.io/woocommerce/product/may-nuong-banh-mi-pastel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
