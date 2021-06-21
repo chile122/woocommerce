@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wp_new/wordpress/danh-muc-san-pham/home-decor/kitchen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chile122.github.io/woocommerce</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 20 Jun 2021 11:40:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jun 2021 03:17:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,39 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chảo DILL Pastel (19,5cm)</title>
+		<link>https://chile122.github.io/woocommerce/product/chao-dill-pastel-195cm/</link>
+					<comments>https://chile122.github.io/woocommerce/product/chao-dill-pastel-195cm/#respond</comments>
+		
+		<dc:creator><![CDATA[chile]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 11:43:41 +0000</pubDate>
+				<guid isPermaLink="false">https://chile122.github.io/woocommerce/?post_type=product&#038;p=2512</guid>
+
+					<description><![CDATA[_Chất liệu: bakelite, hợp kim nhôm tiêu chuẩn Châu Âu, thủy tinh, chống dính greblon của Đức
+
+_Dùng được trên bếp ga, bếp hồng ngoại
+
+_Thân nồi được làm bằng vật liệu kháng khuẩn, chống bám bẩn, dễ lau chùi
+
+_Đáy nồi có lưới tổng hợp năng lượng, làm nóng đều và nhanh
+
+_Tay cầm nồi và nắp chống nóng
+
+_Nắp nồi làm bằng kính cường lực]]></description>
+										<content:encoded><![CDATA[<p>_Chất liệu: bakelite, hợp kim nhôm tiêu chuẩn Châu Âu, thủy tinh, chống dính greblon của Đức</p>
+<p>_Dùng được trên bếp ga, bếp hồng ngoại</p>
+<p>_Thân nồi được làm bằng vật liệu kháng khuẩn, chống bám bẩn, dễ lau chùi</p>
+<p>_Đáy nồi có lưới tổng hợp năng lượng, làm nóng đều và nhanh</p>
+<p>_Tay cầm nồi và nắp chống nóng</p>
+<p>_Nắp nồi làm bằng kính cường lực</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chile122.github.io/woocommerce/product/chao-dill-pastel-195cm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bếp Picnic Bag</title>
 		<link>https://chile122.github.io/woocommerce/product/bep-picnic-bag/</link>
 					<comments>https://chile122.github.io/woocommerce/product/bep-picnic-bag/#respond</comments>
