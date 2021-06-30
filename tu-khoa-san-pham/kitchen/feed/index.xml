@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>kitchen &#8211; My Shopping</title>
+	<title>kitchen &#8211; Home Decor</title>
 	<atom:link href="http://localhost/myproject/wp_new/wordpress/tu-khoa-san-pham/kitchen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chile122.github.io/woocommerce</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 20 Jun 2021 11:40:16 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://chile122.github.io/woocommerce/wp-content/uploads/2021/06/signature_ltqchi.png</url>
-	<title>kitchen &#8211; My Shopping</title>
+	<title>kitchen &#8211; Home Decor</title>
 	<link>https://chile122.github.io/woocommerce</link>
 	<width>32</width>
 	<height>32</height>

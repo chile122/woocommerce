@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My Shopping	</title>
+	Bình luận cho Home Decor	</title>
 	<atom:link href="http://localhost/myproject/wp_new/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chile122.github.io/woocommerce</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Tue, 01 Jun 2021 01:53:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
